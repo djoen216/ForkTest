@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-07-21T21:34:49Z" name="Default suite" finished-at="2021-07-21T21:34:55Z" duration-ms="6269">
+    <groups>
+    </groups>
+    <test started-at="2021-07-21T21:34:49Z" name="Default test" finished-at="2021-07-21T21:34:55Z" duration-ms="6269">
+      <class name="TestNG.apiForkTest">
+        <test-method signature="getpokemons()[pri:0, instance:TestNG.apiForkTest@3eb77ea8]" started-at="2021-07-21T21:34:49Z" name="getpokemons" finished-at="2021-07-21T21:34:55Z" duration-ms="6248" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getpokemons -->
+      </class> <!-- TestNG.apiForkTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
